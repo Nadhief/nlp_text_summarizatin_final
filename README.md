@@ -148,6 +148,7 @@ Dataset yang digunakan berasal dari https://huggingface.co/datasets/SEACrowd/lip
 - data validation 10972 row
 
 Model MT-5-small berasa dari https://huggingface.co/google/mt5-small
+
 Model phi3.5-mini-instruct berasa dari https://huggingface.co/microsoft/Phi-3.5-mini-instruct
 
 Contoh data:
