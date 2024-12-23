@@ -6,6 +6,9 @@ Proyek ini adalah implementasi sederhana untuk membuat ringkasan dari sebuah art
 
 https://www.canva.com/design/DAGWVxH4qgk/PqXKA0y2swssjpfOlU_q9g/edit?utm_content=DAGWVxH4qgk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+final:
+https://www.canva.com/design/DAGaEn_l4e4/ZJ9H6tsWLL55TmTl2zpruw/edit?utm_content=DAGaEn_l4e4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 # Kode Program yang digunakan
 
 - summaryindoRnn_final (500 data train, 100 data val)
